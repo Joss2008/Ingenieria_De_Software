@@ -1,0 +1,37 @@
+1. historias de usuraio
+2. no es un prohrama completo 
+3. sino el objetivo principal 
+4. tarea sin nota 
+5. tabla de historias de usurio para
+esta semana 
+6. debe estar bien hecha para poder continuar
+hasta el proximo jueves 
+7. nuestro tema era sobre capacitaciones
+8. tutria miecoles y viernes en la mañaan 
+9. tutorias de media hora con cada grupo 
+10. asi los trabajos estaran bien hechos 
+11. recomendable usar tutorias 
+12. para no tener problemas 
+13. este trabajo esta ponderado a un 35% 
+pero el aporte va a eliminarse y el trabajo
+autonomo valdra 50 % de la nota 
+14. si todo esta bien no ganaremos el 50 % 
+de la nota
+
+CALIDAD DE SOFTWARE
+15. BUENAS PRACTICAS PARA DESARROLLAR SOFWARE
+16. ISO 9000 CALIDAD LA CALIDAD SE CONOCE FACILMENTE
+CUANDO ESTA AUSENTE 
+QUE ES?
+- AUSENCIA DE ERRORES DE FNCIONAMIENTO 
+- ADECUACION A LAS NECESIDADES DEL USUARIO 
+- EFICIENCIA EN TIEMPO, ESPACIO Y RECURSOS
+- CUMPLIIENTO DE LOS ESTANDARES ESTABLECIDOS 
+- DENTRO DEL PRESUPUESTO APROBADO 
+- DENTRO DEL CRONOGRAMA PLNEADO 
+- ERRORES POR LA LINEA DE CODIGO 
+- TIEMPO MEDIO ENTRE FALLAS 
+- TAMAÑO DE MEMORIA/TIEMPO DE EJCUCION 
+- ESTILO DE PROGRAMACION 
+- INTERFASE 
+- DISEÑO 
